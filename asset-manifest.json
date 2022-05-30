@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/css/main.073c9b0a.css",
+    "main.js": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/js/main.b004bda2.js",
+    "static/js/787.4cb094e0.chunk.js": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/js/787.4cb094e0.chunk.js",
+    "index.html": "/xuananh95.github.io/CIJS74_lession_-6_deploy/index.html",
+    "main.073c9b0a.css.map": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/css/main.073c9b0a.css.map",
+    "main.b004bda2.js.map": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/js/main.b004bda2.js.map",
+    "787.4cb094e0.chunk.js.map": "/xuananh95.github.io/CIJS74_lession_-6_deploy/static/js/787.4cb094e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b004bda2.js"
+  ]
+}
